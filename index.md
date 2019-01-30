@@ -6,7 +6,7 @@ Below are my projects, patents and paper publications in my interest area:
 
 ### Patents Publications
 
-[Contextual based Application Navigation](https://patents.google.com/patent/US20170315826A1/en)
+```[Contextual based Application Navigation](https://patents.google.com/patent/US20170315826A1/en)
 USPTO
 
 Contextual graph of applications is generated.
@@ -14,6 +14,7 @@ Contextual graph of applications is generated.
 [Method and apparatus for Generating Statement](https://patents.google.com/patent/US20180143963A1/en)
 
 Dynamically generating view for Application Switching 
+```
 
 You can use the [editor on GitHub](https://github.com/Tarun93/tarun93.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
