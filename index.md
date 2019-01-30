@@ -7,6 +7,7 @@ Below are my projects, patents and paper publications in my interest area:
 ### Patents Publications
 
 [Contextual based Application Navigation](https://patents.google.com/patent/US20170315826A1/en)
+
 USPTO
 
 Contextual graph of applications is generated.
