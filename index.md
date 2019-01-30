@@ -2,6 +2,11 @@
 
 I have worked as a Lead Engineer at Samsung Research & Development, Bangalore in Voice Assistant "Bixby". My research interests are in Deep Learning implementations in Computer Vision & Natural Language Processing and Human-Computer Interaction.
 
+Below are my projects, patents and paper publications in my interest area:
+
+## Patents Publications
+
+[Contextual based Application Navigation](https://patents.google.com/patent/US20170315826A1/en)
 
 You can use the [editor on GitHub](https://github.com/Tarun93/tarun93.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
